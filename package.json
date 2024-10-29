@@ -1,0 +1,25 @@
+{
+  "name": "deep-freeze",
+  "version": "1.0.0",
+  "description": "recursively Object.freeze() objects but using ES6 syntax",
+  "main": "index.js",
+  "scripts": {
+    "test": "vitest run"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/KareimGazer/deep-freeze-ES6.git"
+  },
+  "keywords": [
+    "deep-freeze"
+  ],
+  "author": "Kareim Tarek",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/KareimGazer/deep-freeze-ES6/issues"
+  },
+  "homepage": "https://github.com/KareimGazer/deep-freeze-ES6#readme",
+  "devDependencies": {
+    "vitest": "^2.1.4"
+  }
+}
