@@ -1,5 +1,5 @@
 {
-  "name": "deep-freeze",
+  "name": "deep-freeze-ES6",
   "version": "1.0.0",
   "description": "recursively Object.freeze() objects but using ES6 syntax",
   "main": "index.js",
