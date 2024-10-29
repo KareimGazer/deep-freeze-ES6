@@ -4,7 +4,8 @@
   "description": "recursively Object.freeze() objects but using ES6 syntax",
   "main": "index.js",
   "scripts": {
-    "test": "vitest run"
+    "test": "vitest run",
+    "test:coverage": "vitest run --coverage"
   },
   "repository": {
     "type": "git",
@@ -20,6 +21,7 @@
   },
   "homepage": "https://github.com/KareimGazer/deep-freeze-ES6#readme",
   "devDependencies": {
+    "@vitest/coverage-v8": "^2.1.4",
     "vitest": "^2.1.4"
   }
 }
